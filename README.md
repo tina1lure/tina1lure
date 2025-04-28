@@ -4,19 +4,19 @@
 - 🔭 I’m currently working on 
 -  News Recommendation Systems (NRMS, KRED, PP4RNR)
 -  KU RAG Chatbot Development (llmware)
--  Drug Interaction Chatbot using LLMs**
+-  Drug Interaction Chatbot using LLMs
 
 - 🌱 I’m currently learning 
 - Retrieval-Augmented Generation using llmware
-- Deep Learning Optimization and Fine-tuning**
+- Deep Learning Optimization and Fine-tuning
 
 - 👯 I’m looking to collaborate on 
 - AI applications for healthcare and biomedical data
-- Retrieval-Augmented Generation (RAG) based recommendation/chatbot systems**
+- Retrieval-Augmented Generation (RAG) based recommendation/chatbot systems
 
 - 🤝 I’m looking for help with 
 - Knowledge-enhanced AI models (Knowledge Graphs, Entity-aware systems)
-- Efficient fine-tuning of large language models (LLMs)**
+- Efficient fine-tuning of large language models (LLMs)
 
 <p align="left">
 </p>
