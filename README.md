@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  Scientific Agents · Multimodal Learning · Knowledge Distillation
+  AI4Science · Scientific AI Agents · ProteinDesign
 </p>
 
 <p align="center">
@@ -155,8 +155,6 @@ Current focus: AI for Science and LLM agents for protein design.
 Participated in research on image-guided debiasing distillation
 and preference alignment, leading to a WSDM 2026 full paper.
 
-[Lab Profile](https://gli.konkuk.ac.kr/people/alumni/2025-03-eunyeong-jo/)
-
 ## Languages & Tools
 
 <p>
@@ -165,12 +163,6 @@ and preference alignment, leading to a WSDM 2026 full paper.
     alt="Python, PyTorch, TensorFlow, scikit-learn, Linux, Git, C, Java, SQLite"
   />
 </p>
-
-## Connect
-
-I'm interested in research conversations and collaborations around
-**AI for Science, scientific agents, multimodal learning,
-and knowledge distillation**.
 
 [LinkedIn](https://www.linkedin.com/in/eunyeong-jo-24302b2b4/)
 · [GitHub](https://github.com/tina1lure)
