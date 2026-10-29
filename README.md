@@ -1,22 +1,5 @@
 <h1 align="center">Hi 👋, I'm tina</h1>
-<h3 align="center">Double majoring in Biomedical Science and Engineering & Computer Science at Konkuk University  Passionate about AI, ML, Bioinformatics, and Database Systems</h3>
-
-- 🔭 I’m currently working on 
--  News Recommendation Systems (NRMS, KRED, PP4RNR)
--  KU RAG Chatbot Development (llmware)
--  Drug Interaction Chatbot using LLMs
-
-- 🌱 I’m currently learning 
-- Retrieval-Augmented Generation using llmware
-- Deep Learning Optimization and Fine-tuning
-
-- 👯 I’m looking to collaborate on 
-- AI applications for healthcare and biomedical data
-- Retrieval-Augmented Generation (RAG) based recommendation/chatbot systems
-
-- 🤝 I’m looking for help with 
-- Knowledge-enhanced AI models (Knowledge Graphs, Entity-aware systems)
-- Efficient fine-tuning of large language models (LLMs)
+<h3 align="center">M.S.Student @ KAIST , AI4Science</h3>
 
 <p align="left">
 </p>
